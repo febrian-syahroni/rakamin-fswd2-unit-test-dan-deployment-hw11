@@ -1,14 +1,14 @@
 {
   "development": {
-    "username": "rejak",
-    "password": "rejakhalo",
+    "username": "postgres",
+    "password": "febrian716",
     "database": "movies",
     "host": "127.0.0.1",
     "dialect": "postgresql"
   },
   "test": {
-    "username": "rejak",
-    "password": "rejakhalo",
+    "username": "postgres",
+    "password": "febrian716",
     "database": "movies_test",
     "host": "127.0.0.1",
     "dialect": "postgresql"
